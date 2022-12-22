@@ -8,7 +8,6 @@
 
 [Click here to open figma layout or watch below](https://www.figma.com/file/7ErKAs5DI59uOwZQI8ky48/Ignite-Lab-Design-System?t=YPxVSTjCIzK7l16h-1)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F7ErKAs5DI59uOwZQI8ky48%2FIgnite-Lab-Design-System%3Ft%3DYPxVSTjCIzK7l16h-1" allowfullscreen></iframe>
 
 ## Storybook in github pages:
 [Click here to open storybook](https://jcagz96.github.io/ignite-lab-design-system/)
