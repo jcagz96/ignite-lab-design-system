@@ -13,6 +13,7 @@
     "test-storybook": "test-storybook"
   },
   "dependencies": {
+    "@babel/plugin-transform-typeof-symbol": "^7.18.9",
     "@radix-ui/react-checkbox": "^1.0.1",
     "@radix-ui/react-slot": "^1.0.1",
     "@rollup/plugin-babel": "^6.0.3",
