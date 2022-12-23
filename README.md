@@ -27,6 +27,8 @@
 - Phosphor icons
 - Clsx
 - Storybook addons (a11y) for easily Acessibility.
+- MSW (API mocks)
+- Jest
 
 ## Getting started
 
