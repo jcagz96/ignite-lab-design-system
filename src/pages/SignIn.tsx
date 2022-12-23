@@ -15,10 +15,15 @@ export function SignIn() {
   async function handleSignIn(event: FormEvent) {
     event.preventDefault();
 
-    await axios.post('/sessions', {
-      email: 'joao@example.com',
-      password: '1234577'
-    })
+    try {
+      await axios.post('/sessions', {
+        email: 'joao@example.com',
+        password: '1234577'
+      })
+    } catch (error) {
+      console.log('API offline, sucess login only for test purposes')
+      setIsUserSignedIn(true);
+    }
 
     setIsUserSignedIn(true);
   }
